@@ -1,4 +1,4 @@
-# waste-classification
+# Waste Classification
 
 Classifying Organic and Recycle waste. 91% accuracy on train data and 87% accuracy on test data.
 
